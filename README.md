@@ -60,8 +60,9 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: DEVADHAARINI.D
+### Register Number:212223230040
+![image](https://github.com/Devadhaarini/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/145796552/7461b0bd-6659-4d24-ba4b-8ab789b27db8)
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
